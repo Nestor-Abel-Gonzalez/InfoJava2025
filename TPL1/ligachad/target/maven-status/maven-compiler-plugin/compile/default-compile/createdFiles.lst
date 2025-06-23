@@ -1,0 +1,8 @@
+com\ligachad\model\Liga.class
+com\ligachad\app\Main.class
+com\ligachad\app\MenuConsola.class
+com\ligachad\model\Equipo.class
+com\ligachad\model\Jugador.class
+com\ligachad\model\Titular.class
+com\ligachad\model\Partido.class
+com\ligachad\model\Suplente.class
