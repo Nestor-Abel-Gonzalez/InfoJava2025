@@ -225,8 +225,8 @@ public class MenuConsola {
         System.out.println("Jugadores sin goles:");
         sinGoles.forEach(j -> System.out.println("- " + j.getNombre()));
 
-        titularMasMinutos.ifPresent(t -> System.out.println("Titular con más minutos: " + t.getNombre() + " (" + t.getMinutosJugados() + " minutos)"));
-        suplenteMasUsado.ifPresent(s -> System.out.println("Suplente más utilizado: " + s.getNombre() + " (" + s.getPartidosIngresados() + " ingresos)"));
+        titularMasMinutos.ifPresent(t -> System.out.println("Titular con mas minutos: " + t.getNombre() + " (" + t.getMinutosJugados() + " minutos)"));
+        suplenteMasUsado.ifPresent(s -> System.out.println("Suplente mas utilizado: " + s.getNombre() + " (" + s.getPartidosIngresados() + " ingresos)"));
     }
 
     private static void mostrarTodosLosJugadoresConTipo() {
