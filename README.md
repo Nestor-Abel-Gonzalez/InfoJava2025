@@ -31,7 +31,7 @@ ligachad/
                     └── AppTest.java
 
 
-## 🧠 Tecnologías Utilizadas
+##🧠 Tecnologías Utilizadas
 
 - Java 21
 - Maven 3.8.6
@@ -41,7 +41,7 @@ ligachad/
 
 ---
 
-## 🚀 Funcionalidades
+##🚀 Funcionalidades
 
 - Registrar jugadores titulares y suplentes
 - Crear equipos e incorporar jugadores
