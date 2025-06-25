@@ -30,7 +30,6 @@ ligachad/
                 └── ligachad/
                     └── AppTest.java
 
-
 ##🧠 Tecnologías Utilizadas
 
 - Java 21
