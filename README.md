@@ -97,9 +97,9 @@ Separación clara de responsabilidades y paquetes
 💡 Ideas futuras
 Persistencia de datos en archivo o base de datos
 
-Interfaz gráfica (JavaFX)
+Spring Framework o
 
-Visualización de estadísticas con gráficos
+Spring Boot
 
 👨‍💻 Autor
 Desarrollado por Abel González
