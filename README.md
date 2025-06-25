@@ -61,7 +61,7 @@ ligachad/
 
 ## 🛠️ Instalación y Ejecución
 
-### ✅ Requisitos
+### 📋 Requisitos
 
 - JDK 21 instalado
 - Apache Maven instalado y agregado al PATH
